@@ -27,7 +27,8 @@ This is a simple Python program that implements the Caesar cipher algorithm for 
 1. Clone the repository:
    ```bash
    https://github.com/Thencrypt-K3/CA3SAR.Encrypt.git
-
+2. ```bash
+   python caesar_encrypt_decrypt.py
 Example Usage
 To encrypt the text "Hello, World!" with a shift of 3, the output will be "Khoor, Zruog!".
 To decrypt "Khoor, Zruog!" with a shift of 3, the output will return to "Hello, World!".
