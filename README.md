@@ -1,8 +1,5 @@
-# CA3SAR_ENCRYPT
-##CAESAR ENCRYPT##       "Secure your messages with the classic Caesar cipher encryption and decryption tool."!!
-
 # CA3SAR.Encrypt
-##CAESAR.ENCRYPT##       "Secure your messages with the classic Caesar cipher encryption and decryption tool."!!
+##CAESAR.ENCRYPT##     "Secure your messages with the classic Caesar cipher encryption and decryption tool."!!
 
 # Caesar Cipher Encryption/Decryption Tool
 
