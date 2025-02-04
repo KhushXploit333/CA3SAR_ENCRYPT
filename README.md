@@ -1,8 +1,8 @@
 # CA3SAR_ENCRYPT
-##CAESAR ENCRYPT##    PRODIGY_CS_01   "Secure your messages with the classic Caesar cipher encryption and decryption tool."!!
+##CAESAR ENCRYPT##       "Secure your messages with the classic Caesar cipher encryption and decryption tool."!!
 
 # CA3SAR.Encrypt
-##CAESAR.ENCRYPT##     PRODIGY_CS_01     "Secure your messages with the classic Caesar cipher encryption and decryption tool."!!
+##CAESAR.ENCRYPT##       "Secure your messages with the classic Caesar cipher encryption and decryption tool."!!
 
 # Caesar Cipher Encryption/Decryption Tool
 
@@ -26,7 +26,7 @@ This is a simple Python program that implements the Caesar cipher algorithm for 
 
 1. Clone the repository:
    ```bash
-   https://github.com/Thencrypt-K3/CA3SAR.Encrypt.git
+   https://github.com/KhushXploit/CA3SAR.Encrypt.git
 2. ```bash
    python caesar_encrypt_decrypt.py
 Example Usage
